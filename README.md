@@ -4,7 +4,7 @@
 
 ## Profile Viwes
 
- <img src="https://komarev.com/ghpvc/?username=dkxs&label=Profile%20views&color=0e75b6&style=flat" alt="dkxs" />  
+ <img src="https://komarev.com/ghpvc/?username=angeldarkz&label=Profile%20views&color=0e75b6&style=flat" alt="angeldarkz" />  
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">

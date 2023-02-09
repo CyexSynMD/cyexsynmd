@@ -65,7 +65,7 @@
 
 ## Thanks To
 
-[![Dzox](https://github.com/Dzox13524.png)](https://github.com/Dzox13524) | [![KyamiCyx](https://github.com/ShionMDv.png)](https://github.com/ShionMDv) | [![DAVE](https://github.com/davekgw.png)](https://github.com/davekgw)
-----|----|----
-[Dzox](https://github.com/Dzox13524) | [KyamiCyx](https://github.com/ShionMDv) | [Smileyヅ](https://github.com/davekgw)
+[![KyamiCyx](https://github.com/ShionMDv.png)](https://github.com/ShionMDv) | [![DAVE](https://github.com/davekgw.png)](https://github.com/davekgw)
+----|----
+[KyamiCyx](https://github.com/ShionMDv) | [Smileyヅ](https://github.com/davekgw)
 

@@ -7,16 +7,16 @@
  <img src="https://komarev.com/ghpvc/?username=angeldarkz&label=Profile%20views&color=0e75b6&style=flat" alt="angeldarkz" />  
 
 ---------
-## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+## ```Connect With Me 📞``` <img src="https://github.com/davekgw/picture/blob/main/Handshake.gif" height="32px">
 </a> &nbsp;&nbsp;
   <a href="https://tiktok.com/@wvinz">
-    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
+    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/davekgw/picture/blob/main/Tiktok.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://instagram.com/_alv.stn?igshid=YmMyMTA2M2Y=">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/davekgw/picture/blob/main/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:alvinrinegar@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/davekgw/picture/blob/main/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
